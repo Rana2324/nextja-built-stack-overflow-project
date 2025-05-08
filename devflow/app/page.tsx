@@ -1,11 +1,15 @@
-import Image from "next/image";
+
+import Link from "next/link";
+
 
 export default function Home() {
   return (
     <div >
-     <h1 className="text-3xl text-fuchsia-600  font-bold underline">
-      Hello world!
-    </h1>
+      <h1>Welcome To My Project</h1>
+     
+ 
+
+   
     </div>
   );
 }
